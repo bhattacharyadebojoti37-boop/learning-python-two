@@ -3,4 +3,4 @@ string = input("Enter a string: ")
 
 reverse = string[::-1]
 
-print("Reverse string:", reverse)
+print("The reverse of the string is:", reverse)
